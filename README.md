@@ -11,7 +11,7 @@
 <h3>Find me here!!</h3></p>
 <a href="https://www.linkedin.com/in/yash-mudgal-ba5124225/"><img src="https://user-images.githubusercontent.com/92500568/174947137-0c9d5b55-6269-4bc3-b010-b866089e5028.png" height="30px" width="30px"></a>
 <a href="https://www.instagram.com/"><img src="https://user-images.githubusercontent.com/92500568/174947745-425eacfb-6931-4beb-bd24-6335c333bbc6.png" height="30px" width="30px"></a>
-<a href="https://www.codechef.com/users/"><img src="https://img.icons8.com/color/2x/codechef.png" height="30px" width="30px"></a>
+<a href="https://www.codechef.com/users/mudgal_2001"><img src="https://img.icons8.com/color/2x/codechef.png" height="30px" width="30px"></a>
 <a href="https://leetcode.com/yashmudgalprep2001/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="30px" width="30px"></a>
 <a href="https://auth.geeksforgeeks.org/user/yashmudgalprep2001/practice/"><img src="https://img.icons8.com/color/344/GeeksforGeeks.png" height="30px" width="30px"></a>
 <br><br>
